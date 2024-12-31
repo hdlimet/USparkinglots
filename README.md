@@ -1,7 +1,13 @@
-Analysis for the warming effects of parking lots across U.S. cities
+**Analysis for the warming effects of parking lots across U.S. cities**
 
 Overview:
-The analysis includes two part derive from Google Earth Engine (GEE) and R 4.3.3 platform. GEE is a cloud-based service that provides access to satellite imagery and geospatial datasets for planetary-scale analysis. Raw data can be retrieved from GEE, and the associated scripts for data processing are available with the three links: https://code.earthengine.google.com/eaa1179efe7754e73e85d9ad760ed997, https://code.earthengine.google.com/d58915b22d365824c143834ffbc3c3b1, https://code.earthengine.google.com/fc9e14cb3fef17c9ed8b7548ddfdda8e. The codes provided above is about the statistical analysis of raw data using R 4.3.3.
+The analysis includes two part derive from Google Earth Engine (GEE) and R 4.3.3 platform.   
+GEE is a cloud-based service that provides access to satellite imagery and geospatial datasets for planetary-scale analysis. Raw data can be retrieved from GEE, and the associated scripts for data processing are available in the three links: <br />
+Warming of parking_Lot_city_scale: https://code.earthengine.google.com/eaa1179efe7754e73e85d9ad760ed997,   
+Warming of parking lots scale: https://code.earthengine.google.com/d58915b22d365824c143834ffbc3c3b1,   
+Example of selected cities: https://code.earthengine.google.com/fc9e14cb3fef17c9ed8b7548ddfdda8e. 
+
+The GEE codes correspond to the R code with the same ID. The output of GEE code is the input for the statistical analysis using R 4.3.3.
 
 System requirements:
 Hardware requirements:
