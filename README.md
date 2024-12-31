@@ -8,7 +8,7 @@ Hardware requirements:
 A standard computer with enough RAM to support the in-memory operations is required for the installation and operations with R platform.
 
 Software requirements:
-The R 4.3.3 install package is accessible on the website: [https://www.mathworks.com/products/matlab.html.](https://cran.r-project.org/bin/windows/base/old/4.3.3/)
+The R 4.3.3 install package is accessible on the website: [https://cran.r-project.org/bin/windows/base/old/4.3.3/]
 
 Installation guide:
 The details about R installation is accessible at：[https://ww2.mathworks.cn/help/install/ug/install-products-with-internet-connection.html.](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
