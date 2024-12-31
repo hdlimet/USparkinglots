@@ -11,7 +11,7 @@ Software requirements:
 The R 4.3.3 install package is accessible on the website: [https://cran.r-project.org/bin/windows/base/old/4.3.3/]
 
 Installation guide:
-The details about R installation is accessible at：[https://ww2.mathworks.cn/help/install/ug/install-products-with-internet-connection.html.](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+The details about R installation is accessible at：[https://cran.r-project.org/doc/manuals/r-release/R-intro.html]
 
 Instruction for use:
 Include the data and code in one folder in your personal computer.
