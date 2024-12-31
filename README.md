@@ -7,10 +7,13 @@ Warming of parking_Lot_city_scale: https://code.earthengine.google.com/eaa1179ef
 Warming of parking lots scale: https://code.earthengine.google.com/d58915b22d365824c143834ffbc3c3b1,   
 Example of selected cities: https://code.earthengine.google.com/fc9e14cb3fef17c9ed8b7548ddfdda8e. 
 \. 
+
 The GEE codes correspond to the R code with the same ID. The output of GEE code is the input for the statistical analysis using R 4.3.3.
 \. 
+
 The input data for R is avaiable in the folder "input". The R codes are avaiable in the folder "code".
 \. 
+
 System requirements:
 Hardware requirements:
 A standard computer with enough RAM to support the in-memory operations is required for the installation and operations with R platform.
